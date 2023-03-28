@@ -8,7 +8,7 @@ yarn run compile # compile the smart contracts
 # Audit Details
 Command used to calculate nSLOC
 ```shell
-solidity-code-metrics ./contracts/RubiconMarket.sol ./contracts/BathHouseV2.sol ./contracts/V2Migrator.sol ./contracts/periphery/BathBuddy.sol ./contracts/utilities/poolsUtility/Position.sol ./contracts/utilities/FeeWrapper.sol ./contracts/utilities/MarketAid.sol ./contracts/utilities/RubiconRouter.sol
+solidity-code-metrics ./contracts/RubiconMarket.sol ./contracts/BathHouseV2.sol ./contracts/V2Migrator.sol ./contracts/periphery/BathBuddy.sol ./contracts/utilities/poolsUtility/Position.sol ./contracts/utilities/FeeWrapper.sol
 ```
 
 Link to audit description and dossier: SOON :TM:

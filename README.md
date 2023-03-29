@@ -11,4 +11,4 @@ Command used to calculate nSLOC: `1577` in current scope!
 solidity-code-metrics ./contracts/RubiconMarket.sol ./contracts/BathHouseV2.sol ./contracts/V2Migrator.sol ./contracts/periphery/BathBuddy.sol ./contracts/utilities/poolsUtility/Position.sol ./contracts/utilities/FeeWrapper.sol
 ```
 
-Link to audit description and dossier: SOON :TM:
+[Link to audit description and dossier.](https://rubicondefi.notion.site/Rubicon-v2-Audit-Contest-b7b5b97393d14b068b6427522c779bfb)
